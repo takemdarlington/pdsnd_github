@@ -5,7 +5,7 @@
 Explore US Bikeshare Data
 
 ### Description
-Interactively analizing statistics and review raw data with Python from bikeshare data in Chicago, New York City and Washington.
+Interactively analizing statistics and see raw data with Python from bikeshare data in Chicago, New York City and Washington.
 
 ### Files used
 bikeshare_2.py, chicago.csv, new_york_city.csv and washington.csv
