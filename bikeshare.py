@@ -198,7 +198,6 @@ def raw_data(df):
     """
 
     data = 0
-#     print(df[0:5])
 
     while True:
         answer = input('Would you like to see 5 lines of raw data? Enter yes or no: ')
