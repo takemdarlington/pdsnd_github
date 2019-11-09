@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+# Data files we will be working with
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -197,7 +198,6 @@ def raw_data(df):
     """
 
     data = 0
-#     print(df[0:5])
 
     while True:
         answer = input('Would you like to see 5 lines of raw data? Enter yes or no: ')
