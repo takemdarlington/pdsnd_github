@@ -21,7 +21,7 @@ def get_filters():
     while True:
         city = input('Which city would you like to explore? chicago, new york city, or washington? ')
         city.lower()
-        if (city in['chicago', 'new york city', 'washington']):
+        if (city in ['chicago', 'new york city', 'washington']):
             break
         else:
             print('Ooops! Not a valid city, please enter either .chicago, new york city, or washington')
